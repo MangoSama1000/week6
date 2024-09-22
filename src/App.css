@@ -62,7 +62,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #09705a56;
+  background-color: azure;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -73,8 +73,8 @@
 body {
   margin: 0;
   display: flex;
-  justify-content: center; /* Center content horizontally */
-  align-items: center; /* Center content vertically */
+  justify-content: center; 
+  align-items: center; 
   min-width: 320px;
   min-height: 100vh;
 }
